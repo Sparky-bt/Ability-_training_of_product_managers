@@ -4,7 +4,7 @@
 
 - 产品经理需要感受体验用户的真情实感，需要角色+能力【如下图】
 
-[笔记01](https://github.com/Sparky-bt/Ability-_training_of_product_managers/blob/master/images/%E7%AC%94%E8%AE%B001.jpg)
+![笔记01](https://github.com/Sparky-bt/Ability-_training_of_product_managers/blob/master/images/%E7%AC%94%E8%AE%B001.jpg)
 
 - 如何感同身受？
 1、感知 perceive
@@ -22,7 +22,7 @@
 
 - 以用户为中心的设计过程：【如下图】
 
-[笔记02](https://github.com/Sparky-bt/Ability-_training_of_product_managers/blob/master/images/%E7%AC%94%E8%AE%B002.jpg)
+![笔记02](https://github.com/Sparky-bt/Ability-_training_of_product_managers/blob/master/images/%E7%AC%94%E8%AE%B002.jpg)
 
 *tips：在根据初始需求评估解决方案中，可用性测试是十分重要的评估方法。*
 
@@ -34,7 +34,7 @@
 
 - 【如下图】
 
-[笔记03](https://github.com/Sparky-bt/Ability-_training_of_product_managers/blob/master/images/%E7%AC%94%E8%AE%B003.jpg)
+![笔记03](https://github.com/Sparky-bt/Ability-_training_of_product_managers/blob/master/images/%E7%AC%94%E8%AE%B003.jpg)
 
 *tips：有形比讨论开始更重要，比正确和不依赖创造力更重要 ——— 这就是设计*
 
